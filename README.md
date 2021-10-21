@@ -22,7 +22,7 @@ The following is a rough idea of what the screens should look like:
 
 #### Optional
 1. The movie detail screen should allow users to like/unlike the movie
-1. Favorited movies should be saved between launches of the app
+1. Liked movies should be saved between launches of the app
 
 #### Guidelines
 
